@@ -23,9 +23,6 @@ To start using the OmniGstream extension in NVIDIA Omniverse, follow these steps
 
 1. **Clone the Project and Link it in Omniverse Extension Manager**
    - Clone the OmniGstream repository to your local machine:
-     ```bash
-     git clone https://github.com/yourusername/OmniGstream.git
-     ```
    - Open NVIDIA Omniverse and go to the **Extensions** window (usually found under `Window > Extensions`).
    - Click on **Add Extension Search Path** and add the path to the OmniGstream folder you just cloned.
    - Once added, you should see the **OmniGstream** extension appear in the list of available extensions.
